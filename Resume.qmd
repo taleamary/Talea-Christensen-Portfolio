@@ -1,0 +1,35 @@
+---
+title: "Resume"
+format: html
+---
+
+# Talea Christensen
+
+## Education
+
+School: Brigham Young University - Idaho
+Major: Bachelor of Science in Accounting
+Minor: Finance
+Clusters: Data Analysis and Financial Accounting
+Expected Graduation: December 2026
+
+## Skills
+
+- Python
+- Polars
+- SQL
+- Tableau
+- Data Visualization
+- Machine Learning
+- Silver Lake
+- Experience
+
+## Experience
+
+### Citizens Community Bank - Bank Teller
+Ammon - ID
+January 2024 - December 2024
+
+### Crandall & Oseen - Tax Intern
+Idaho Falls - ID
+January 2026 - April 2026
