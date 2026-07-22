@@ -26,5 +26,19 @@
     "title": "Resume",
     "section": "",
     "text": "Ammon - ID January 2024 - December 2024\n\n\n\nIdaho Falls - ID January 2026 - April 2026"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
